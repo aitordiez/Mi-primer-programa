@@ -3,5 +3,6 @@ public class ejemplo{
 		System.out.println("Mi primer programa");
 		System.out.println("21 años");
 		System.out.println("Leon");
+		System.out.println("Septiembre");
 	}
 }
